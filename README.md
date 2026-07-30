@@ -35,3 +35,16 @@ Find frequency of every element (simple nested loop approach)
 Remove Duplicates from Sorted Array
 Remove Element
 Plus One
+
+# Day04
+## Topics:
+-Two Pointer Technique
+-StringBuilder Class in Java
+-Commonly Used Methods in StringBuilder(`append`, `reverse`, `insert`, `charAt`, etc.)
+
+## Problems Solved
+ReverseArrayTwoPointers
+PalindromeArray
+MergeSortedArray
+MoveZeroes
+StringBuilderDemo

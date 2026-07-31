@@ -48,3 +48,13 @@ PalindromeArray
 MergeSortedArray
 MoveZeroes
 StringBuilderDemo
+
+# Day05
+## Topics:
+-PrefixSum
+-Java Math Class methods (max, min, abs, pow, sqrt, cbrt, round, ceil ,etc)
+
+## Problems Solved
+Build Prefix Sum Array
+RangeSumQuery
+Find Pivot Index

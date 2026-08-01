@@ -58,3 +58,37 @@ StringBuilderDemo
 Build Prefix Sum Array
 RangeSumQuery
 Find Pivot Index
+
+# Day 06 - Hashing Fundamentals & Weekly Consolidation
+
+## 📚 Topics Covered
+
+## DSA
+- Weekly Revision
+- Hashing Introduction
+- HashMap Basics
+- HashSet Basics
+- Frequency Counting using HashMap
+- Duplicate Detection
+- Most Frequent Element
+
+## Java
+- HashMap
+  - put()
+  - get()
+  - containsKey()
+  - remove()
+  - keySet()
+  - size()
+
+- HashSet
+  - add()
+  - contains()
+  - remove()
+
+## Programs Solved
+
+- FrequencyCountUsingHashMap.java
+- MostFrequentElement.java
+- ContainsDuplicate.java
+- HashMapVsHashSet.java

@@ -92,3 +92,26 @@ Find Pivot Index
 - MostFrequentElement.java
 - ContainsDuplicate.java
 - HashMapVsHashSet.java
+
+# Day 07 
+Revised All previous topics and programs
+
+# Day 08 - Hashing Deep Dive
+## Topics Covered
+### DSA
+- Hashing (Deep Dive)
+- Problem Recognition using Hashing
+- Character Frequency Counting
+- Duplicate Detection
+- First Non-Repeating Character
+- Intersection of Two Arrays
+
+### Java Collections
+- HashMap
+- HashSet
+- Collections Framework Overview
+## Programs Solved
+- CharacterFrequencyCount
+- FirstNonRepeatingCharacter
+- IntersectionOfTwoArrays
+- Contains Duplicate II 

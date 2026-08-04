@@ -115,3 +115,22 @@ Revised All previous topics and programs
 - FirstNonRepeatingCharacter
 - IntersectionOfTwoArrays
 - Contains Duplicate II 
+
+# Day 09 - Binary Search Basics
+
+## Topics Covered
+- Binary Search
+- Iterative Binary Search
+- Recursive Binary Search
+- Time Complexity - O(log n)
+- Search Space Reduction
+
+## Java Programs
+- BinarySearchIterative.java
+- BinarySearchRecursive.java
+- BinarySearchComparisonCount.java
+
+## LeetCode Problems
+- 704. Binary Search ✅
+- 35. Search Insert Position ✅
+- 69. Sqrt(x) ✅

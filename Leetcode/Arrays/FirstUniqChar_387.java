@@ -1,6 +1,7 @@
+package Arrays;
 
 public class FirstUniqChar_387 {
-     public int firstUniqChar(String s) {
+     public static int firstUniqChar(String s) {
         if(s==null || s.isEmpty()){
             return -1;
         }
@@ -17,7 +18,7 @@ public class FirstUniqChar_387 {
     }
     public static void main(String args[]){
         String s="swiss";
-        firstUniqChar(s);
+        System.out.println(firstUniqChar(s));
 
     }
 }

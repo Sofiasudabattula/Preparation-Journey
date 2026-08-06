@@ -131,6 +131,27 @@ Revised All previous topics and programs
 - BinarySearchComparisonCount.java
 
 ## LeetCode Problems
-- 704. Binary Search ✅
-- 35. Search Insert Position ✅
-- 69. Sqrt(x) ✅
+- 704. Binary Search 
+- 35. Search Insert Position 
+- 69. Sqrt(x) 
+
+# Day 10 - Binary Search Applications
+
+##  Topics Covered
+- Binary Search Applications
+- Search Insert Position
+- First Occurrence
+- Last Occurrence
+- Lower Bound (Introduction)
+- Upper Bound (Introduction)
+- Wrapper Classes (Java)
+
+## Java Programs
+- SearchInsertPosition.java
+- FirstOccurrence.java
+- LastOccurrence.java
+
+## LeetCode Problems
+- 34. Find First and Last Position of Element in Sorted Array 
+- 278. First Bad Version 
+- 744. Find Smallest Letter Greater Than Target 

@@ -155,3 +155,18 @@ Revised All previous topics and programs
 - 34. Find First and Last Position of Element in Sorted Array 
 - 278. First Bad Version 
 - 744. Find Smallest Letter Greater Than Target 
+
+# Day 11 - Strings Basics
+
+##  Topics Covered
+- Java Strings
+- String Traversal
+- String Methods
+- StringBuilder
+- String + HashMap
+
+##  LeetCode Problems
+- 344. Reverse String 
+- 125. Valid Palindrome 
+- 242. Valid Anagram 
+

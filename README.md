@@ -170,3 +170,16 @@ Revised All previous topics and programs
 - 125. Valid Palindrome 
 - 242. Valid Anagram 
 
+# Day 12 - Sliding Window
+
+##  Topics Covered
+- Sliding Window
+- Fixed-Size Sliding Window
+- Sliding Window with Strings
+- StringBuilder
+
+##  LeetCode Problems
+- 643. Maximum Average Subarray I 
+- 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold 
+- 1456. Maximum Number of Vowels in a Substring of Given Length 
+

@@ -183,3 +183,29 @@ Revised All previous topics and programs
 - 1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold 
 - 1456. Maximum Number of Vowels in a Substring of Given Length 
 
+# Day 13 - Variable Sliding Window
+
+##  Topics Covered
+- Variable-Size Sliding Window
+- Expand and Shrink Window
+- Sliding Window Conditions
+- Pattern Recognition
+
+##  LeetCode Problems
+- 209. Minimum Size Subarray Sum 
+- 1004. Max Consecutive Ones III 
+- 3. Longest Substring Without Repeating Characters 
+
+# Day 14 - Sliding Window + Hashing
+
+##  Topics Covered
+- Variable-Size Sliding Window
+- Sliding Window + HashSet
+- Sliding Window + HashMap
+- HashMap vs HashSet
+
+##  LeetCode Problems
+- 3. Longest Substring Without Repeating Characters 
+- 904. Fruit Into Baskets 
+- 1004. Max Consecutive Ones III 
+

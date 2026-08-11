@@ -209,3 +209,19 @@ Revised All previous topics and programs
 - 904. Fruit Into Baskets 
 - 1004. Max Consecutive Ones III 
 
+# Day 15 - Sliding Window Mastery
+
+##  Topics Covered
+- Fixed-Size Sliding Window
+- Variable-Size Sliding Window
+- Expand and Shrink Window
+- Sliding Window + HashMap/HashSet
+- Pattern Recognition
+
+##  Problems Practiced
+- Longest Substring Without Repeating Characters 
+- Longest Substring with At Most K Distinct Characters 
+- Fruit Into Baskets 
+- Minimum Size Subarray Sum 
+- Maximum Sum of K Consecutive Elements 
+

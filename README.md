@@ -225,3 +225,20 @@ Revised All previous topics and programs
 - Minimum Size Subarray Sum 
 - Maximum Sum of K Consecutive Elements 
 
+# Day 16 - Recursion Fundamentals
+
+##  Topics Covered
+- Recursion Basics
+- Base Case
+- Recursive Calls
+- Call Stack
+- Recursion vs Iteration
+- Stack Space
+
+##  Problems Solved
+- Print 1 to N 
+- Print N to 1 
+- Sum of First N Numbers 
+- Factorial of N 
+- Reverse an Array using Recursion 
+

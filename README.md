@@ -261,3 +261,21 @@ Revised All previous topics and programs
 - Reverse String using Recursion + Two Pointers 
 - Check Palindrome using Recursion 
 
+# Day 18 - Recursion Problem Solving
+
+##  Topics Covered
+- Recursion State
+- Base Case
+- Recursive Calls
+- Returning Phase
+- Call Stack
+- Recursion with Arrays
+- Recursion + Two Pointers
+
+##  Problems Practiced
+- Sum of Array Elements using Recursion 
+- Check if Array is Sorted using Recursion 
+- Reverse Array using Recursion + Two Pointers 
+- Reverse String using Recursion + Two Pointers 
+- Palindrome Check using Recursion 
+- Factorial using Recursion 

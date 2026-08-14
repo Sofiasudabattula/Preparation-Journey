@@ -242,3 +242,22 @@ Revised All previous topics and programs
 - Factorial of N 
 - Reverse an Array using Recursion 
 
+# Day 17 - Recursion with Arrays & Strings
+
+## Topics Covered
+- Recursion with Parameters
+- Recursion with Arrays
+- Recursion with Strings
+- Recursion + Two Pointers
+- Call Stack
+- Base Case
+
+## Problems Solved
+- Print Array Elements using Recursion 
+- Sum of Array Elements using Recursion 
+- Find Maximum Element using Recursion 
+- Reverse Array using Recursion + Two Pointers 
+- Check if Array is Sorted using Recursion 
+- Reverse String using Recursion + Two Pointers 
+- Check Palindrome using Recursion 
+

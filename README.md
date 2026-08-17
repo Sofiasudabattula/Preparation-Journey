@@ -279,3 +279,16 @@ Revised All previous topics and programs
 - Reverse String using Recursion + Two Pointers 
 - Palindrome Check using Recursion 
 - Factorial using Recursion 
+
+# Day 19 - Introduction to Backtracking
+
+##  Topics Covered
+- Backtracking Fundamentals
+- Decision Trees
+- Choose → Explore → Undo
+- Subsets Generation
+- Include / Exclude Pattern
+- Subarray vs Subsequence
+
+##  Problems Practiced
+- Generate Subsets of an Array 
